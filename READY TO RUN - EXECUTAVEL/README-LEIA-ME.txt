@@ -1,2 +1,2 @@
-- Abra a pasta Debug e execute o a aplicação "CRUD_CSharp.exe".
-- Open folder Debug and execute "CRUD_CSharp.exe".
+- Abra a pasta Debug e execute o a aplicação "CRUD_CSharp".
+- Open folder Debug and execute "CRUD_CSharp".
